@@ -25,7 +25,7 @@ body {
 
 section {
     width: 35%;
-    height: 70%;
+    height: 80%;
     border-radius: 20px;
     backdrop-filter: blur(10px);
     display: flex;
@@ -182,7 +182,6 @@ section {
 /* ===== RESPONSIVE BREAKPOINT ===== */
 
 @media (max-width:800px) {
-
 
     section {
         height: 430px;
